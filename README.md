@@ -1,27 +1,31 @@
-<h1 align="left">Widya Pranama</h1>
+<h1 align="center">Widya Pranama</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=111827&width=820&lines=Flutter+Developer;Android+Apps+%26+Web+Products;Clean%2C+Maintainable%2C+Production-Ready+Work;Building+Practical+Digital+Products" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1100&color=C9A227&center=true&vCenter=true&width=950&lines=Flutter+Developer;Android+Apps+%26+Web+Products;Building+Practical+Digital+Products;Clean+%E2%80%A2+Maintainable+%E2%80%A2+Production-Ready;JavaSense+%E2%80%A2+Kaweruh+Jawa+%E2%80%A2+Gudangku" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Flutter Developer • Android Apps • Web Products • Product Builder</strong>
 </p>
 
-<p align="left">
+<p align="center">
   I build practical digital products across mobile and web with a focus on clean implementation, maintainable architecture, and production-ready delivery.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://javasenseapp.com">
-    <img src="https://img.shields.io/badge/Website-JavaSense-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JavaSense Website" />
+    <img src="https://img.shields.io/badge/Website-JavaSense-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JavaSense Website" />
   </a>
   <a href="https://github.com/bozwe/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Repo-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo" />
+    <img src="https://img.shields.io/badge/Portfolio-Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo" />
   </a>
   <a href="https://kaweruhjawa.com">
-    <img src="https://img.shields.io/badge/Previous_Product-Kaweruh_Jawa-2d3748?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Kaweruh Jawa" />
+    <img src="https://img.shields.io/badge/Previous_Product-Kaweruh_Jawa-1f2937?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Kaweruh Jawa" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bozwe&style=for-the-badge&color=0f172a" alt="Profile views" />
 </p>
 
 ---
@@ -38,12 +42,21 @@
 
 ## Core Stack
 
-<p align="left">
+### Mobile
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+### Backend / Integration
+<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+### Web
+<p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -102,6 +115,22 @@ Android app with clean UI and practical task flow for structured priority manage
 - Worked on real user-facing tools and cultural digital experiences
 - Delivered business websites and product-oriented web presentation
 - Focus on implementation quality, maintainability, and practical outcomes
+
+---
+
+## Quick Links
+
+<p>
+  <a href="https://javasenseapp.com">
+    <img src="https://img.shields.io/badge/Visit-JavaSense-C9A227?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+  <a href="https://kaweruhjawa.com">
+    <img src="https://img.shields.io/badge/View-Kaweruh_Jawa-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
+  <a href="https://github.com/bozwe/portfolio">
+    <img src="https://img.shields.io/badge/Open-Portfolio_Repo-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
