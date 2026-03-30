@@ -1,7 +1,7 @@
 <h1 align="center">Widya Pranama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1100&color=C9A227&center=true&vCenter=true&width=950&lines=Flutter+Developer;Android+Apps+%26+Web+Products;Building+Practical+Digital+Products;Clean+%E2%80%A2+Maintainable+%E2%80%A2+Production-Ready;JavaSense+%E2%80%A2+Kaweruh+Jawa+%E2%80%A2+Gudangku" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1100&color=C9A227&center=true&vCenter=true&width=980&lines=Flutter+Developer;Android+Apps+%26+Web+Products;Building+Practical+Digital+Products;Clean+%E2%80%A2+Maintainable+%E2%80%A2+Production-Ready;JavaSense+%E2%80%A2+Kaweruh+Jawa+%E2%80%A2+Gudangku" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,6 +21,9 @@
   </a>
   <a href="https://kaweruhjawa.com">
     <img src="https://img.shields.io/badge/Previous_Product-Kaweruh_Jawa-1f2937?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Kaweruh Jawa" />
+  </a>
+  <a href="https://soniaweddingstudio.com">
+    <img src="https://img.shields.io/badge/Client_Web-Sonia_Wedding_Studio-2d3748?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sonia Wedding Studio" />
   </a>
 </p>
 
@@ -80,7 +83,7 @@ This project is included here as part of my portfolio work.
 Offline-first Android inventory app built for practical stock and product management with a simple, user-friendly mobile experience.
 
 ### Sonia Wedding Studio
-Client-facing business website built for clear service presentation, usability, and responsive web experience.
+Client-facing business website built for clear service presentation, usability, and responsive web experience.  
 **Live:** https://soniaweddingstudio.com
 
 ### Coda Priority Composer
@@ -128,8 +131,11 @@ Android app with clean UI and practical task flow for structured priority manage
   <a href="https://kaweruhjawa.com">
     <img src="https://img.shields.io/badge/View-Kaweruh_Jawa-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
+  <a href="https://soniaweddingstudio.com">
+    <img src="https://img.shields.io/badge/Open-Sonia_Wedding_Studio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://github.com/bozwe/portfolio">
-    <img src="https://img.shields.io/badge/Open-Portfolio_Repo-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open-Portfolio_Repo-2d3748?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -140,3 +146,4 @@ Android app with clean UI and practical task flow for structured priority manage
 - Website: https://javasenseapp.com
 - Portfolio Repo: https://github.com/bozwe/portfolio
 - Previous Product: https://kaweruhjawa.com
+- Client Web Showcase: https://soniaweddingstudio.com
