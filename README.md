@@ -81,6 +81,7 @@ Offline-first Android inventory app built for practical stock and product manage
 
 ### Sonia Wedding Studio
 Client-facing business website built for clear service presentation, usability, and responsive web experience.
+**Live:** https://soniaweddingstudio.com
 
 ### Coda Priority Composer
 Android app with clean UI and practical task flow for structured priority management.
