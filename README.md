@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Widya Pranama
 
-<!--
-**Bozwe/Bozwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer building Android apps, web products, and practical digital tools.
 
-Here are some ideas to get you started:
+## Focus
+- Flutter mobile app development
+- Android app production and release
+- Web product implementation
+- API and Firebase integration
+- Practical digital products with clean, maintainable structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **JavaSense** — Javanese calendar, weton tools, and cultural digital product  
+  https://javasenseapp.com
+
+- **Sonia Wedding Studio** — client-facing business website focused on clear presentation and usability
+
+- **Coda Priority Composer** — Android app with clean UI and practical task flow
+
+## Tech Stack
+- Flutter
+- Dart
+- Firebase
+- REST API
+- HTML
+- CSS
+- JavaScript
+- WordPress
+
+## Links
+- Website: https://javasenseapp.com
+- Portfolio repo: https://github.com/bozwe/portfolio
