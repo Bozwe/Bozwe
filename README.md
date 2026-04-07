@@ -76,8 +76,7 @@ Javanese calendar and cultural utility app built around weton, kalender Jawa, jo
 - Flutter / Android implementation
 - Product presentation and ecosystem support
 
-**Website:** https://javasenseapp.com  
-**Google Play:** https://play.google.com/store/apps/details?id=com.javasense.app
+**Links:** [Website](https://javasenseapp.com) • [Google Play](https://play.google.com/store/apps/details?id=com.javasense.app)
 
 ---
 
@@ -88,7 +87,7 @@ Android zodiac product with a stronger local voice, character-led tone, and ente
 - Mobile product execution
 - UI / experience direction
 
-**Google Play:** https://play.google.com/store/apps/details?id=com.javasense.horoskoplo
+**Links:** [Google Play](https://play.google.com/store/apps/details?id=com.javasense.horoskoplo)
 
 ---
 
@@ -99,7 +98,7 @@ Cleaner job discovery product direction built for modern job seekers with more f
 - Product direction
 - Web / product execution
 
-**Website:** https://lockte.com
+**Links:** [Website](https://lockte.com)
 
 ---
 
@@ -110,7 +109,7 @@ Client-facing website and publishing-driven brand presence built for trust, serv
 - Structure and content presentation
 - Responsive website execution
 
-**Website:** https://soniaweddingstudio.com
+**Links:** [Website](https://soniaweddingstudio.com)
 
 ---
 
@@ -118,17 +117,10 @@ Client-facing website and publishing-driven brand presence built for trust, serv
 
 Products I previously built, launched, operated, and later sold:
 
-- **AnggaranKu: Budget Offline**  
-  https://play.google.com/store/apps/details?id=id.biz.virtualassistant.anggaranku
-
-- **Coda — Priority Composer**  
-  https://play.google.com/store/apps/details?id=id.coda&pli=1
-
-- **Gudangku Inventory (Offline)**  
-  https://play.google.com/store/apps/details?id=id.virtualassistant.gudangku
-
-- **Wetonku: Weton & Kalender**  
-  https://play.google.com/store/apps/details?id=id.wetonku.app
+- **AnggaranKu: Budget Offline** — [Google Play](https://play.google.com/store/apps/details?id=id.biz.virtualassistant.anggaranku)
+- **Coda — Priority Composer** — [Google Play](https://play.google.com/store/apps/details?id=id.coda&pli=1)
+- **Gudangku Inventory (Offline)** — [Google Play](https://play.google.com/store/apps/details?id=id.virtualassistant.gudangku)
+- **Wetonku: Weton & Kalender** — [Google Play](https://play.google.com/store/apps/details?id=id.wetonku.app)
 
 ---
 
