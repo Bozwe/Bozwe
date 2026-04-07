@@ -1,15 +1,15 @@
 <h1 align="center">Widya Pranama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Flutter+Developer+%E2%80%A2+Android+Products;Publishing+Systems+%E2%80%A2+Web+Products;Product+Builder+%E2%80%A2+Production-Ready+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=920&lines=Android+Products+%E2%80%A2+Publishing+Systems;Flutter+Developer+%E2%80%A2+Product+Builder;Clean+Execution+%E2%80%A2+Production-Ready+Delivery" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Flutter Developer • Android Products • Publishing Systems • Product Builder</strong>
+  <strong>Android Products • Publishing Systems • Product Builder</strong>
 </p>
 
 <p align="center">
-  I build practical digital products across Android, web, and publishing systems with an emphasis on clean implementation, maintainable structure, and production-ready delivery.
+  I build Android products, publishing systems, and product-oriented web experiences with a focus on clean implementation, maintainable structure, and real-world usability.
 </p>
 
 <p align="center">
@@ -31,14 +31,23 @@
 
 ## About
 
-I build Android apps, publishing systems, and product-oriented web experiences with a focus on clarity, maintainability, and real-world usability.
+I build practical digital products across Android, web, and publishing systems with an emphasis on clarity, maintainability, and production-ready execution.
 
 My work spans:
-- mobile product development with Flutter
-- Android release-oriented builds
-- Firebase and API integrations
+- Flutter-based mobile product development
+- Android release-oriented implementation
+- Firebase and API integration
 - WordPress and product-facing websites
-- practical digital tools built for actual users, not just prototypes
+- user-facing digital tools built for real usage, not just prototypes
+
+---
+
+## What I Bring
+
+- Product-minded Flutter and Android execution
+- Clean, maintainable implementation for real users
+- Publishing systems and product-facing web delivery
+- Experience across independent products, client work, and shipped apps
 
 ---
 
@@ -70,6 +79,8 @@ My work spans:
 ## Selected Work
 
 ### JavaSense
+**Android Product**
+
 Javanese calendar and cultural utility app built around weton, kalender Jawa, jodoh, and daily guidance in a cleaner Android experience.
 
 - Product direction
@@ -81,7 +92,9 @@ Javanese calendar and cultural utility app built around weton, kalender Jawa, jo
 ---
 
 ### Horos-Koplo
-Android zodiac product with a stronger local voice, character-led tone, and entertainment-driven mobile experience.
+**Android Product**
+
+A zodiac product with a stronger local voice, character-led tone, and a more entertainment-driven mobile experience.
 
 - Product concept
 - Mobile product execution
@@ -92,6 +105,8 @@ Android zodiac product with a stronger local voice, character-led tone, and ente
 ---
 
 ### Lockte
+**Venture**
+
 Cleaner job discovery product direction built for modern job seekers with more focused browsing and simpler product flow.
 
 - Venture concept
@@ -103,6 +118,8 @@ Cleaner job discovery product direction built for modern job seekers with more f
 ---
 
 ### Sonia Wedding Studio
+**Client Work**
+
 Client-facing website and publishing-driven brand presence built for trust, service clarity, and local positioning.
 
 - Client web build
@@ -124,21 +141,30 @@ Products I previously built, launched, operated, and later sold:
 
 ---
 
-## What I Work On
+## Product Range
 
-- Flutter mobile app development
-- Android app production and release preparation
-- Firebase and API integrations
-- Product-oriented websites and landing pages
-- Publishing systems and structured web experiences
-- Product polishing, refinement, and maintainable delivery
+- Android apps
+- Product landing pages
+- Publishing systems
+- Client-facing websites
+- Utility tools and user-facing digital products
 
 ---
 
-## Current Focus
+## Working Principles
+
+- Build for real usage, not just prototypes
+- Prefer clarity over unnecessary complexity
+- Keep delivery maintainable and production-ready
+- Focus on practical user value and cleaner execution
+
+---
+
+## Current Work
 
 - Production-ready Android and Flutter products
 - Publishing systems and product-facing websites
+- Firebase and API integrations
 - Practical digital tools with clear user value
 - Independent ventures and long-term digital products
 
